@@ -121,6 +121,7 @@
     border-right: 310px solid transparent;
     border-bottom: 310px solid transparent;
     border-top: 310px solid transparent;
+    opacity: 0.6;
     position: fixed;
     left: 0;
     top: 225;
